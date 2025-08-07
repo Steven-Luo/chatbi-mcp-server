@@ -1,0 +1,9 @@
+# 日志级别，可选值有：DEBUG、INFO、WARNING、ERROR
+log_level: INFO
+mcp_timeout_seconds: 600
+
+# 代码最大重试次数
+max_retry_execution_count: 3
+
+# MCP Server 认证 Token，用于验证请求
+mcp_server_token: eyJzdWIiOiAidXNlcjEyMyIsICJpYXQiOiAxNzUxODA5ODIwLCAiZXhwIjogMTc1MTgxMzQyMH0
