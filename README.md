@@ -60,8 +60,13 @@ python pandas_mcp_server.py
 
 通过指令，自动化数据分析：
 
-![综合运用.JPG](assets/%E7%BB%BC%E5%90%88%E8%BF%90%E7%94%A8.JPG)
+生成数据分析计划：
+![综合1.png](assets/%E7%BB%BC%E5%90%881.png)
+开始分析：
+![综合2.png](assets/%E7%BB%BC%E5%90%882.png)
+结果报告：
+![综合3.png](assets/%E7%BB%BC%E5%90%883.png)
+![综合4.png](assets/%E7%BB%BC%E5%90%884.png)
 
 生成的看板：
-
 ![Dashboard.png](assets/Dashboard.png)
